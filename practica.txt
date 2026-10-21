@@ -1,1 +1,2 @@
-texto de relleno para el primer commit
+Ahora conozco los cambios entre versiones.
+Este es mi segundo cambio registrado.git
